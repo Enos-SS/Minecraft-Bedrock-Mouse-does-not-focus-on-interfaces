@@ -6,6 +6,7 @@ Traigo una solucion para que el mouse se centre en las interfaces
 de Minecraft Bedrock, algo que deberia hacer MICROSOFT pero no lo hace.
 
 English
+
 Hi, I'm Enso-SS.
 I have a solution to center the mouse cursor on Minecraft Bedrock interfaces,
 something Microsoft should be doing but isn't.
