@@ -1,6 +1,7 @@
 Español / Spanish
 
 Hola que tal soy Enso-SS
+
 Traigo una solucion para que el mouse se centre en las interfaces
 de Minecraft Bedrock, algo que deberia hacer MICROSOFT pero no lo hace.
 
